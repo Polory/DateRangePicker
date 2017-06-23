@@ -1,6 +1,6 @@
 Date Range Picker 
 ===================
-Date Range Picker is an extension of Square Calender Picker View to show a Customized Date Range Picker with improved UI
+Date Range Picker is a Calender Picker View to show a Customized Date Range Picker with improved UI
 
 Screenshots
 -----------
